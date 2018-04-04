@@ -1,0 +1,22 @@
+{
+  "name": "airbnb-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalmuller/airbnb-json-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalmuller/airbnb-json-data/issues"
+  },
+  "homepage": "https://github.com/michalmuller/airbnb-json-data#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
